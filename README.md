@@ -6,3 +6,4 @@
 * comando git remote
 
   ## Testando novo comando 
+    * Alterando o arquivo localmente para enviar para o remote repo.
