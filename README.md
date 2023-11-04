@@ -7,3 +7,4 @@
 
   ## Testando novo comando 
     * Alterando o arquivo localmente para enviar para o remote repo.
+    * Alterando o arquivo no remote repo e puxando para local.
